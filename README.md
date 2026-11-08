@@ -18,6 +18,7 @@ kategori, department, merek, dan harga retail dari tabel products. Batasi hasil 
 produk pertama.
 Materi: SELECT, FROM, LIMIT
 
+SQL
 SELECT
     name,
     category,
